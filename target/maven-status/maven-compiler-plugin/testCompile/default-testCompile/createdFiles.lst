@@ -1,0 +1,12 @@
+com\falgun\locator\homepageLocators.class
+StepDefinitions\logins.class
+com\falgun\action\profilepageActions.class
+com\falgun\TestRunnerr\testrunnerClass.class
+com\falgun\Utilityy\utilityyy.class
+com\falgun\action\loginpageActions.class
+com\falgun\Utilityy\base_class.class
+com\falgun\locator\profilepageLocators.class
+com\falgun\Utilityy\testdata.class
+com\falgun\action\homepageActions.class
+StepDefinitions\CategoriesAboutUs.class
+com\falgun\locator\loginpageLocators.class
